@@ -15,6 +15,7 @@ Here's what I usually work with:
 - 🌐 TypeScript
 - 🪄 Lua
 - 🚀 Go (sometimes)
+- 🦀 Rust (limited experience)
 
 ## 🔥 Projects
 
@@ -22,6 +23,9 @@ Currently working on something spicy? Yup! Check it out:
 
 > 👉 **[discord.gg/twitchfollows](https://discord.gg/twitchfollows)**  
 > 🤖 A Discord server & toolset focused on Twitch growth, automation.
+> 
+> 🎮 **BitkaGG**  
+> 🚗 A custom FiveM server I'm currently developing.
 
 ## 📈 What I'm into
 
